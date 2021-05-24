@@ -8,7 +8,7 @@ Served as a large-scale multi-modal benchmark, Anti-UAV drives the future resear
 [Google Drive](https://drive.google.com/file/d/1NPYaop35ocVTYWHOYQQHn8YHsM9jmLGr/view?usp=sharing)
 
 ## Data annoatation correction
-| Sequence Name | Modality | Start Frame |
+| Sequence Name | Modality | Start Frame (default value = 0) |
 |  ----  | ----  | ----  |
 | 20190925_130434_1_2 | infrared | 16 |
 | 20190926_134054_1_1  | visible | 150 |
